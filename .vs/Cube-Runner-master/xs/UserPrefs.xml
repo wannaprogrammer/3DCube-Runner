@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6E65AD9E-B7E1-4B9C-53A6-6E1A0C52180F}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cube-Runner-master" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameObjects" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="WinGame.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ca2f5aef-2780-4cf8-9278-3cfe889bd43c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
